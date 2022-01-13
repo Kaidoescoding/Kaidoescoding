@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kaidoescoding
 - 👀 I’m an Taiwanese engineering student currently study in Yonsei university, Korea.
-- 🌱 I’m currently learning machine learning, deep learning with tensorflow and pytorch.
+- 🌱 Main focus : NLP
+- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
